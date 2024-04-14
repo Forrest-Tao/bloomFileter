@@ -1,4 +1,4 @@
-package bloomfilter
+package bloomFileter
 
 import (
 	"context"
